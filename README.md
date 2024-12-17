@@ -3,7 +3,7 @@ My 2024 Water Land single player quake map.
 
 
 ## Final map walkthrough
-(link)
+[(Final Map Walkthrough of WaterLand)](https://youtu.be/kuZXGlulNVo)
 
 
 Check out my wiki pages!
